@@ -174,15 +174,3 @@ Link: https://www.loom.com/share/54eb19f018604a7399b3f65bc9438496
 - Product reviews
 - Wishlist functionality
 
-## 📝 License
-
-MIT
-
-## 👤 Author
-
-Your Name - Vibe Commerce Assignment
-
-## 🙏 Acknowledgments
-
-- Unsplash for product images
-- React and Node.js communities
