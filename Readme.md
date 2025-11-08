@@ -17,8 +17,7 @@ A full-stack shopping cart application built with React, Node.js, Express, and M
 ## 🛠️ Tech Stack
 
 **Frontend:**
-- React 18
-- Vite
+- React(Vite)
 - React Router
 - Axios
 - React Hot Toast
