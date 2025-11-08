@@ -139,7 +139,7 @@ npm run dev
 ### Product Listing
 ![image alt](https://github.com/karimulla9673-oss/Vibe-Ecommerce/blob/e9dba77a09c88defe0c202593c5cc0db398fecdd/Screenshot%202025-11-08%20130717.png)
 ### Shopping Cart
-![image alt]()
+![image alt](https://github.com/karimulla9673-oss/Vibe-Ecommerce/blob/4c0429b19f89bec5390cc98ba8231aaccf8b849b/Screenshot%202025-11-08%20130743.png)
 
 ### Order Summary
 ![image alt]()
