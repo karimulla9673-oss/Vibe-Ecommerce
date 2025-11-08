@@ -142,7 +142,7 @@ npm run dev
 ![image alt](https://github.com/karimulla9673-oss/Vibe-Ecommerce/blob/4c0429b19f89bec5390cc98ba8231aaccf8b849b/Screenshot%202025-11-08%20130743.png)
 
 ### Order Summary
-![image alt]()
+![image alt](https://github.com/karimulla9673-oss/Vibe-Ecommerce/blob/42afe2106198a8124b0c1fc1988e573b69b080cd/Screenshot%202025-11-08%20130825.png)
 
 ### Order Confirmation
 ![image alt]()
