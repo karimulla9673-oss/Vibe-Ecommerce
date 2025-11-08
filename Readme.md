@@ -133,23 +133,23 @@ npm run dev
 ## 🎨 Screenshots
 
 ### Home Page
-![Home Page](./assets/home-page.png)
+![Home Page](https://raw.githubusercontent.com/karimulla9673-oss/Vibe-Ecommerce/main/assets/home-page.png)
 *Landing page with product categories and featured items*
 
 ### Product Listing
-![Product Listing](./assets/product-listing.png)
+![Product Listing](https://raw.githubusercontent.com/karimulla9673-oss/Vibe-Ecommerce/main/assets/product-listing.png)
 *Product grid showing electronics and accessories*
 
 ### Shopping Cart
-![Shopping Cart](./assets/shopping-cart.png)
+![Shopping Cart](https://raw.githubusercontent.com/karimulla9673-oss/Vibe-Ecommerce/main/assets/shopping-cart.png)
 *Cart view with item quantities and total calculation*
 
 ### Order Summary
-![Order Summary](./assets/order-summary.png)
+![Order Summary](https://raw.githubusercontent.com/karimulla9673-oss/Vibe-Ecommerce/main/assets/order-summary.png)
 *Detailed order summary with tax calculations*
 
 ### Order Confirmation
-![Order Confirmation](./assets/order-confirmation.png)
+![Order Confirmation](https://raw.githubusercontent.com/karimulla9673-oss/Vibe-Ecommerce/main/assets/order-confirmation.png)
 *Order confirmation with receipt and delivery details*
 
 ## 🎥 Demo Video
