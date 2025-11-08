@@ -133,6 +133,7 @@ npm run dev
 ## 🎨 Screenshots
 
 ### Home Page
+![image alt](h[ttps://github.com/karimulla9673-oss/Jarurat-care/blob/62ddc109dc701bf4a76e2683e7d62bcafd2980a7/Screenshot%202025-10-16%20094219.png](https://raw.githubusercontent.com/karimulla9673-oss/Vibe-Ecommerce/main/assets/home-page.png))
 ![Home Page](https://raw.githubusercontent.com/karimulla9673-oss/Vibe-Ecommerce/main/assets/home-page.png)
 *Landing page with product categories and featured items*
 
