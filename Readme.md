@@ -133,7 +133,7 @@ npm run dev
 ## 🎨 Screenshots
 
 ### Home Page
-![image alt](assets/home-page.png)
+![image alt](https://github.com/karimulla9673-oss/Vibe-Ecommerce/blob/209ca3c554eeb0a2d462c11e3cf2b0b7f747daed/Screenshot%202025-11-08%20120703.png)
 
 
 ### Product Listing
