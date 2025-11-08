@@ -145,11 +145,11 @@ npm run dev
 ![image alt](https://github.com/karimulla9673-oss/Vibe-Ecommerce/blob/42afe2106198a8124b0c1fc1988e573b69b080cd/Screenshot%202025-11-08%20130825.png)
 
 ### Order Confirmation
-![image alt]()
+![image alt](https://github.com/karimulla9673-oss/Vibe-Ecommerce/blob/0ecdc9f9ce0c1fa4867bd163831babc2966081e4/Screenshot%202025-11-08%20130915.png)
 
 ## 🎥 Demo Video
 
-
+Link: https://www.loom.com/share/54eb19f018604a7399b3f65bc9438496
 
 ## 💡 Key Features Implemented
 
