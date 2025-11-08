@@ -132,7 +132,25 @@ npm run dev
 
 ## 🎨 Screenshots
 
-[Add screenshots here after running the application]
+### Home Page
+![Home Page](./assets/home-page.png)
+*Landing page with product categories and featured items*
+
+### Product Listing
+![Product Listing](./assets/product-listing.png)
+*Product grid showing electronics and accessories*
+
+### Shopping Cart
+![Shopping Cart](./assets/shopping-cart.png)
+*Cart view with item quantities and total calculation*
+
+### Order Summary
+![Order Summary](./assets/order-summary.png)
+*Detailed order summary with tax calculations*
+
+### Order Confirmation
+![Order Confirmation](./assets/order-confirmation.png)
+*Order confirmation with receipt and delivery details*
 
 ## 🎥 Demo Video
 
